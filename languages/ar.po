@@ -1,0 +1,105 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ammar <ammar@oasisventures.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+
+#. Text in function
+#: page-welcome.php:127
+msgid "Explore dm³"
+msgstr "استكشف dm³"
+
+#. Text in function
+#: page-welcome.php:165
+msgid "See dm³"
+msgstr "ألقي نظرة على dm³"
+
+#. Text in function
+#: page-welcome.php:91
+msgid "Why dm³"
+msgstr "لماذا dm³"
+
+#. Text in function
+#: footer.php:65
+msgid "Copyright"
+msgstr "جميع الحقوق محفوظة"
+
+#. Text in function
+#: page-work.php:62
+msgid "Project"
+msgstr "المشروع"
+
+#. Text in function
+#: header.php:107
+msgid "Home"
+msgstr "الرئيسية"
+
+#. Text in function
+#: header-blog.php:32
+msgid "DIGITAL Media, Marketing &amp; Monitoring"
+msgstr "DIGITAL Media, Marketing &amp; Monitoring"
+
+#. Text in function
+#: header-blog.php:49
+msgid "Subscribe via RSS"
+msgstr "اشترك بخدمة RSS"
+
+#. Text in function
+#: page-contact-us.php:35
+msgid "Share a thought"
+msgstr "شاركنا ما تعتقد من ملاحظات واقتراحات"
+
+#. Text in function
+#: page-about.php:25
+msgid "dm³ is a bespoke digital marketing agency"
+msgstr "dm³ هي وكالة متخصصة في مجال التسويق الرقمي والإلكتروني"
+
+#. Text in function
+#: single-work.php:55
+msgid "The brief"
+msgstr "التمهيد"
+
+#. Text in function
+#: single-work.php:63
+msgid "The solution"
+msgstr "الحلول التي تم تقديمها"
+
+#. Text in function
+#: page-services.php:37
+msgid "understanding &amp; engagement = results"
+msgstr "الفهم الصحيح والمشاركة الفعالة = النتائج المرجوة"
+
+#. Text in function
+#: page-welcome.php:137
+msgid "Digital Media Strategy"
+msgstr "استراتيجيات تسويق رقمي وإلكتروني"
+
+#. Text in function
+#: page-welcome.php:147
+msgid "Social Media Management"
+msgstr "إدارة الإعلام والتواصل الاجتماعي"
+
+#. Text in Widget
+msgid "Call dm³:"
+msgstr "اتصل ب dm³"
+
+#. Text in function
+#: page-welcome.php:217
+msgid "Mobile Application"
+msgstr "تطبيقات تلائم الهواتف المتنقلة"
+
+#. Text in function
+#: page-welcome.php:217
+msgid "Social Media"
+msgstr "إعلام وتواصل اجتماعي"
+
+#. Text in function
+#: page-welcome.php:217
+msgid "SEO"
+msgstr "رفع مستوى الإظهار في محركات البحث"
+

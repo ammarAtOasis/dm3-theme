@@ -1,0 +1,40 @@
+#slide-controller { 
+	text-align: center; 
+	width: 110px;
+	margin: 0 auto;
+}
+
+#slide-controller span
+{
+	display: block;
+	float: left;
+	background: url(../images/slider.png) no-repeat;
+	height: 13px;
+	cursor: pointer;
+	margin-right: 3px;
+}
+
+#slide-controller span.jFlowSelected { 
+	background-position: -5px 0;
+	width: 13px;
+}
+
+#slide-controller .jFlowControl
+{
+	background-position: -18px 0;
+	width: 13px;
+}
+
+#slide-controller .jFlowPrev
+{
+	background-position: 0 0;
+	width: 5px;
+	margin-right: 10px;
+}
+
+#slide-controller .jFlowNext
+{
+	background-position: -31px 0;
+	width: 5px;
+	margin-left: 7px;
+}

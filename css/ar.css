@@ -1,0 +1,391 @@
+#container
+{
+	direction: rtl;
+}
+
+#slider-bg
+{
+	direction: ltr;
+}
+
+#logo
+{
+	float: left;
+}
+
+#logo img
+{
+	position: relative;
+	margin-top: 15px;
+	margin-left: 28px;
+	z-index: 5;
+}
+
+.social
+{
+	margin: 13px 0 11px 7px;
+}
+
+#nav, .nav-menu
+{
+	margin-top: 11px;
+ 	float: right;
+}
+
+#nav li:first-child, .nav-menu li:first-child { 
+	margin-left: 9px;
+}
+
+.nav-menu .page-item-16
+{
+	margin-left: 0;
+}
+
+#nav li, .nav-menu li
+{
+	float: right;
+}
+
+#nav li.last, .nav-menu li.page-item-5, #menu-item-41
+{
+	margin-right: 0;
+}
+
+#slider
+{
+	position: absolute;
+	margin-top: 40px;
+	margin-right: 68px;
+}
+
+#col1
+{
+	float: right;
+	margin-right: 0;
+	margin-left: 19px;
+}
+
+#col2
+{
+	float: right;
+	margin-right: 0;
+	margin-left: 19px;
+}
+
+#col3
+{
+	float: right;
+}
+
+.proj img
+{
+	width: 74px;
+	height: 54px;
+	border: 3px solid #cdcdcd;
+	float: right;
+}
+
+.proj .info
+{
+	width: 200px;
+	float: right;
+	margin-right: 13px;
+	margin-left: 0;
+}
+
+.page-content
+{
+	float: left;
+	margin-right: 68px;
+	margin-left: 0;
+}
+
+.page-content .con .ttl
+{
+	margin-left: 30px;
+	margin-left: 0;
+}
+
+.page-content .con .srvc-ttl
+{
+	margin-right: 30px;
+}
+
+.page-content .con .srvc-ttl
+{
+	margin-left: 30px;
+	margin-right: 0;
+}
+
+#about .con
+{
+	float: right;
+}
+
+.about-ttl
+{
+	float: right;
+	margin-left: 30px;
+	margin-right: 0;
+}
+
+.page-content .con .ttl2
+{
+	margin-left: 30px;
+	margin-right: 0;
+}
+
+#services .icon
+{
+	margin-right: 10px;
+	margin-left: 0;
+}
+
+.page-content ul
+{
+	margin-left: 13px;
+}
+
+.page-content .con div
+{
+	float: right;
+}
+
+.page-content .con .txt
+{
+	float: left;
+}
+
+.vr
+{
+	float: right;
+}
+
+.vabout
+{
+	margin-left: 30px;
+	margin-right: 0;
+}
+
+
+.side-menu
+{
+	float: right;
+	margin-right: 0;
+	margin-left: 20px;
+}
+
+.side-menu li { 
+	background-position: 0 -146px;
+}
+
+.side-menu li:hover 
+{
+	background-position: 0 -183px;
+}
+
+.side-menu li a
+{
+	margin-right: 8px;
+}
+
+
+#footer .contact
+{
+	float: right;
+}
+
+#footer ul
+{
+	float: right;
+}
+
+#footer li
+{
+	border-right: 0;
+	border-left: 1px solid #898a8c;
+	float: right;
+}
+
+#footer li:first-child
+{
+	padding-left: 13px;
+	padding-right: 0;
+}
+
+#footer li.menu-item-456, #footer li.menu-item-485
+{
+	border-left: none;
+	padding-right: 13px;	
+	padding-left: 0;	
+}
+
+
+#footer .secondary
+{
+	float: right;
+}
+
+#footer .call
+{
+	display: none;
+	margin-right: 20px;
+	direction: ltr;
+}
+
+#footer .textwidget
+{
+	direction: ltr;
+	float: right;
+	text-align: left;
+}
+
+.project .prob, .project .sol
+{
+	float: right;
+}
+
+.project .sol
+{
+	width: 408px;
+	margin-left: 0;
+	margin-right: 30px;
+}
+
+.jshowoff-slidelinks
+{
+	margin: 5px 0;
+	float: right;
+}
+
+.jshowoff-slidelinks a
+{
+	display: block;
+	float: left;
+	width: 14px;
+	height: 14px;
+	margin-right: 5px;
+	margin-bottom: 10px;
+	text-align: center;
+	color: #FFF;
+	font: bold 10px Verdana, Geneva, sans-serif;
+}
+
+table.clients
+{
+	direction: ltr;
+}
+
+.clients td
+{
+	border-left: 1px dashed #bdbdbd;
+	border-right: 0;
+}
+
+
+.clients .lb, .work .lb
+{
+	border-left: 0;
+}
+
+.work .lib img
+{
+	margin-left: 0;
+}
+
+
+.work .rb
+{
+	border-right: 0;
+}
+
+.work .rib img
+{
+	margin-right: 0;
+}
+
+
+.wrap-blog
+{
+	/* to check! background: #FFF url(images/blog-right-sh.png) repeat-y right; */
+	padding-right: 18px;
+	margin-left: 18px;
+}
+
+
+
+#blog .nav li
+{
+	float: left;
+	padding: 5px 23px;
+	font: normal 23px Arial, Helvetica, sans-serif; 
+}
+
+.social-search .sn
+{
+	margin-top: 10px;
+	float: left;
+}
+
+.social-search li
+{
+	float: left;
+	margin-right: 10px;
+}
+
+
+.social-search .search-form
+{
+	height: 40px;
+	line-height: 40px;
+	margin-right: 15px;
+	float: right;
+}
+
+#s
+{
+	width: 240px;
+	color: #a0a0a0;
+	border: 1px solid #CCC;
+	padding: 4px 10px;
+	margin-right: 4px;
+}
+
+#text-4 .textwidget li.sm4b a
+{
+	display: block;
+/* To check 	background: url(images/sm4b-logo.png) no-repeat; */
+	height: 65px;
+	padding: 8px 0 0 75px;
+}
+
+
+.comments-link
+{
+	display: block;
+/* to check 	background: url('images/ico-comment.png') no-repeat left; */
+	height: 18px;
+	padding: 2px 0 2px 31px;
+	margin-top: 10px;
+}
+
+.comment ul
+{
+	margin-left: 30px;
+}
+
+#respond
+{
+	margin-left: 15px;
+}
+
+#commentform label
+{
+	display: block;
+	float: left;
+	width: 96px;
+}
+
+#prevBtn { 
+	margin-right: 880px;
+}
